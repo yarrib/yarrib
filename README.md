@@ -1,23 +1,26 @@
 - 👋 Hi, I’m Yarri (@yarrib). 
 
 - 👀 I’m interested in
-  - programming and data science
+  - family time
+  - hacking things together
+  - predictive modeling
   - golf
   - fishing, hiking, and hunting
   - mountain biking
   - broomball
   
-- 🌱 I’m currently learning many things, aside from pursuing my Masters' in Data Science (U of Wisconsin Online)
-  - proper tools for version control, containerization, and related: git, github, docker, ci/cd stuff
-  - always learning more about python and creating organized projects :)
-  - Azure, specifically Azure Machine Learning and Databricks
-  - Always learning a little bit about PowerBI at work
-  - I really liked using Spark in school, specifically Scala as a language. For some reason I find it to be fairly elegant and a nice change. Working on using in a project soon.
-  - Trying my hand at hackathons, small personal projects, leetcode exercises, and kaggle competitions/activities.
+- 🌱 I’m currently learning 
+  - scrum and devops practices in a microsoft environment
+  - (paused) docker and apache airflow for doing data science-y work
+  - how to parent
+  - machine leanring and deep learning - specifically adding knowledge around the hard stuff (data engineering, prep, etc)
+  - SSAS, SSIS, Azure Data Factory, Azure Synapse
+  - Trying my hand at hackathons, small personal projects, leetcode exercises, and kaggle competitions/activities where I have time
   
 - 💞️ I’m looking to collaborate on
   - Any fun project where I can grow skills
   - Things that are new to me or that I can learn by doing (failing, also!)
+  - 
   
 - 📫 How to reach me
   - Easiest way is via [email](mailto:yarri.bryn@gmail.com)
