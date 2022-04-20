@@ -20,7 +20,6 @@
 - 💞️ I’m looking to collaborate on
   - Any fun project where I can grow skills
   - Things that are new to me or that I can learn by doing (failing, also!)
-  - 
   
 - 📫 How to reach me
   - Easiest way is via [email](mailto:yarri.bryn@gmail.com)
