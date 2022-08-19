@@ -10,11 +10,9 @@
   - broomball
   
 - 🌱 I’m currently learning 
-  - scrum and devops practices in a microsoft environment
-  - (paused) docker and apache airflow for doing data science-y work
   - how to parent
-  - machine leanring and deep learning - specifically adding knowledge around the hard stuff (data engineering, prep, etc)
-  - SSAS, SSIS, Azure Data Factory, Azure Synapse
+  - a bunch of microsoft stuff
+  - ml and dl, different techniquest
   - Trying my hand at hackathons, small personal projects, leetcode exercises, and kaggle competitions/activities where I have time
   
 - 💞️ I’m looking to collaborate on
