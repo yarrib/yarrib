@@ -3,21 +3,17 @@
 - 👀 I’m interested in
   - family time
   - hacking things together
-  - predictive modeling
   - golf
   - fishing, hiking, and hunting
   - mountain biking
   - broomball
   
 - 🌱 I’m currently learning 
-  - how to parent
-  - a bunch of microsoft stuff
-  - ml and dl, different techniquest
-  - Trying my hand at hackathons, small personal projects, leetcode exercises, and kaggle competitions/activities where I have time
+ - ...a lot
   
 - 💞️ I’m looking to collaborate on
   - Any fun project where I can grow skills
-  - Things that are new to me or that I can learn by doing (failing, also!)
+  - Things that are new to me or that I can learn by doing
   
 - 📫 How to reach me
   - Easiest way is via [email](mailto:yarri.bryn@gmail.com)
