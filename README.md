@@ -9,8 +9,9 @@
   - broomball
   
 - 🌱 I’m currently learning 
- - ...a lot
-  
+  - Prompt engineering
+  - MLOps
+   
 - 💞️ I’m looking to collaborate on
   - Any fun project where I can grow skills
   - Things that are new to me or that I can learn by doing
