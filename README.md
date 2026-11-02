@@ -1,6 +1,6 @@
 ### Hi, I'm Yarri 👋
 
-I turn ideas into working systems. I'm a staff engineer who builds, ships and runs agentic applications, ML platforms and data products.
+I turn ideas into working systems. I solve problems: clear up the ambiguity, figure it out as I go, then build fast with a tight scope. I work across domains and bridge the business and the tech.
 
 **Featured:** [Simplify AI agent orchestration with Lakebase Postgres](https://www.databricks.com/blog/simplify-ai-agent-orchestration-lakebase-postgres), co-authored on the Databricks blog. An agentic document extraction pipeline that took audit extraction from hours to minutes, with Postgres as the queue and no extra infrastructure.
 
