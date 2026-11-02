@@ -1,6 +1,6 @@
 ### Hi, I'm Yarri 👋
 
-I turn ideas into systems. I solve problems: clear up the ambiguity, figure it out as I go, then build fast at a suitable scope. I work across domains, bridge the business and the tech, and turn what works into patterns other people can reuse.
+I turn ideas into systems. I solve problems: I clear up the ambiguity, and I'm happy to discover iteratively or act on a good scope. I build fast at a suitable scope, work across domains, bridge the business and the tech, and turn what works into patterns other people can reuse.
 
 **Featured:** [Simplify AI agent orchestration with Lakebase Postgres](https://www.databricks.com/blog/simplify-ai-agent-orchestration-lakebase-postgres), co-authored on the Databricks blog. An agentic document extraction pipeline that took audit extraction from hours to minutes, with Postgres as the queue and no extra infrastructure.
 
