@@ -11,7 +11,7 @@ I turn ideas into working systems. I'm a staff engineer who prototypes and ships
 
 #### Projects
 - [**dex**](https://github.com/yarrib/dex): a Rust CLI for scaffolding data projects (Python packages, Asset Bundles, agent projects) from templates teams can extend. New in [v0.7.0](https://github.com/yarrib/dex/releases/tag/v0.7.0): a durable agent template on DBOS. [Docs](https://yarrib.github.io/dex)
-- [**Beo Bakes**](https://beobakes.com): the website for a decorated-cookie business, built on Next.js and Sanity
+- [**Beo Bakes**](https://beobakes.com): the website for a decorated-cookie business, built on Next.js and Sanity, plus a private AI design studio that plans cookie sets from the cutters and dyes on hand, searches past designs and drafts Instagram captions
 
 #### Certifications
 <a href="https://credentials.databricks.com/9693cff9-51ea-4cb6-97eb-f4c82f8a9b1f"><img src="https://yarrib.github.io/certs/databricks-ml-engineer-professional.png" alt="Databricks Machine Learning Engineer Professional" height="96"></a>
