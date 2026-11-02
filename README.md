@@ -10,7 +10,7 @@ I turn AI ideas into working systems on Databricks, fast. I'm a staff engineer w
 - **Developer tools:** CLIs and templates that make data teams faster
 
 #### Projects
-- [**dex**](https://github.com/yarrib/dex): a Rust CLI for scaffolding data projects (Python packages, Asset Bundles, agent projects) from templates teams can extend. [Docs](https://yarrib.github.io/dex)
+- [**dex**](https://github.com/yarrib/dex): a Rust CLI for scaffolding data projects (Python packages, Asset Bundles, agent projects) from templates teams can extend. New in [v0.7.0](https://github.com/yarrib/dex/releases/tag/v0.7.0): a durable agent template on DBOS. [Docs](https://yarrib.github.io/dex)
 - [**Beo Bakes**](https://beobakes.com): the website for a decorated-cookie business, built on Next.js and Sanity
 
 #### Certifications
